@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570363960896",
+    "project_id": "flutex-54ac3",
+    "storage_bucket": "flutex-54ac3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570363960896:android:58b7ce967b31978e5609a5",
+        "android_client_info": {
+          "package_name": "com.example.flutex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoXVXr0F_DXvtm6cfIXffqrIK_zLjeqXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
