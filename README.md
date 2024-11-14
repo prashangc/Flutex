@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Flutex
 Flutex - Perfex CRM Customer Mobile App
 
 - [Video Demonstration of the Application](https://drive.google.com/drive/folders/10LzGRD24fkboWlAgjkgUpLvjYUCwLvhy?usp=drive_link)
