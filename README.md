@@ -1,21 +1,8 @@
 <<<<<<< HEAD
 # Flutex
 Flutex - Perfex CRM Customer Mobile App
-=======
-# flutex
 
-A new Flutter project.
+- [Video Demonstration of the Application]([https://docs.flutter.dev/get-started/codelab](https://drive.google.com/drive/folders/10LzGRD24fkboWlAgjkgUpLvjYUCwLvhy?usp=drive_link))
+- [Video Demonstration of Firebase Realtime Data Updates]([https://docs.flutter.dev/cookbook](https://drive.google.com/drive/folders/10LzGRD24fkboWlAgjkgUpLvjYUCwLvhy?usp=drive_link))
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 8f699c0 (first commit)
